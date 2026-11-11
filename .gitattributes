@@ -1,0 +1,3 @@
+# Charts and the interactive HTML are outputs, not code: keep GitHub showing the repo as Python
+results/** linguist-generated=true
+*.html linguist-generated=true
