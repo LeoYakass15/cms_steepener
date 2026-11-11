@@ -1,0 +1,8 @@
+,value
+"Intrinsic (forwards, no vol)",0.8515783526191358
+Bachelier ATM vols,0.9228573664836991
+Copula no smile,0.9227514386436753
+Copula SABR smile,0.9234180450690262
+G2++ MC no call,0.9189642693025264
+G2++ MC with call,0.8964054615055537
+Hybrid: copula - G2++ call,0.9008592372720535

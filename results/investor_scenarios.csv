@@ -1,0 +1,5 @@
+scenario,probability,mean_irr
+Called at the first date (2028),0.03005,0.05999999999999998
+Called later (2029-2035),0.36103,0.040972359632210485
+"Never called, all coupons at the 2% floor",0.17067,0.02893786682678799
+"Never called, some coupons above 2%",0.43825,0.036372929252781926

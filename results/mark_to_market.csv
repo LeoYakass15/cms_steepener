@@ -1,0 +1,10 @@
+step,value,kind
+Paid at issue,1.0,total
+Issuer's margin and fees,-0.0962814078444697,step
+Value at issue (model),0.9037185921555303,total
+Time: 2 months of carry,0.007012835916888616,step
+Rates level +8bp,-0.004548328899763976,step
+2s10s -11bp,-0.0049116252880607725,step
+Value on 29/10 (incl. accrued),0.9012714738845942,total
+Accrued coupon,-0.009999999999999998,step
+Clean price 29/10,0.8912714738845942,total
